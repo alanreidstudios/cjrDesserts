@@ -562,3 +562,12 @@ td {
     page-break-after: avoid;
   }
 }
+
+
+/* Scss Document */
+/* line 3, _globals.scss */
+p {
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-color: #352D2D;
+}
